@@ -1,0 +1,4 @@
+error.log
+*.log
+static/dir/
+newppt.ppt
